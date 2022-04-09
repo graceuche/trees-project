@@ -17,5 +17,7 @@ ORDER BY
 ```
 
 The final output chart is below
+
+
 ![pie.chart](bar.png)
 
