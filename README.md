@@ -21,3 +21,4 @@ The final output chart is below
 
 ![pie.chart](bar.png)
 
+The live interactive pie chart can be seen [here](https://graceuche.github.io/trees-project/) 
